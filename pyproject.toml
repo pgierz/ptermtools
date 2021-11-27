@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ptermtools"
-version = "0.2.0b0a0"
+version = "0.2.0b0"
 description = "Paul's Terminal Tools"
 authors = [
     "Paul Gierz <paulgierz@gmail.com>"
