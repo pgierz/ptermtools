@@ -344,3 +344,4 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 ## source: custom ignores
+.direnv/
